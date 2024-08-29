@@ -8,3 +8,4 @@
 5) PHASE3_TASK3: Health Disorder Predictor Using Machine Learning. 
  Dataset for PHASE3_TASK3 : [dataset.csv](https://github.com/user-attachments/files/16479015/dataset.csv)
 6) PHASE4_MiniProject: Wine Quality Predictor Using ML
+7) PHASE5_FinalProject: IPL Score Predictor Using ML & DL.
